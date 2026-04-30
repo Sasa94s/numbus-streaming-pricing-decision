@@ -7,7 +7,7 @@
 
 ---
 
-> **Style guide.** Keep this memo to **1 page**. Lead with the recommendation
+> **Style guide. Lead with the recommendation
 > (BLUF). Use plain English. Numbers, not adjectives. The CFO will skim — make
 > the call easy to act on.
 
@@ -19,7 +19,7 @@
 
 ## What's behind the number
 
-> _3–5 sentences. Walk the CFO through the inputs they should trust:_
+> _In a few sentences: Walk the CFO through the inputs they should trust:_
 > _1. Pilot bias and the IPW correction — what changed and why._
 > _2. The Bayesian posterior on the 3-month churn lift._
 > _3. The cost-benefit translation: revenue gain vs. lost LTV vs. CAC._
@@ -44,4 +44,4 @@
 2. _..._
 3. _..._
 
-*See `nimbus_decision_starter.ipynb` and `assumptions_and_sources.md` for full methodology, data lineage, and uncertainty quantification.*
+*See `nimbus_decision_starter.ipynb` for full methodology, data lineage, and uncertainty quantification.*
