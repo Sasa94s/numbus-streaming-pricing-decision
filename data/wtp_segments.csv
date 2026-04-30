@@ -1,0 +1,5 @@
+segment,share_of_base,avg_arpu_usd,wtp_p25_usd,wtp_p50_usd,wtp_p75_usd,stated_cancel_rate_at_14_99
+Price-sensitive,0.28,12.99,11.0,12.5,13.5,0.34
+Mainstream,0.42,12.99,12.5,14.0,16.0,0.18
+Loyal,0.2,12.99,14.0,16.5,19.0,0.06
+Premium-curious,0.1,12.99,13.0,15.5,18.0,0.1
